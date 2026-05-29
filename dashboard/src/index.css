@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: #0f172a; color: #fff; }
+input:focus { border-color: #10b981 !important; }
+button:disabled { opacity: 0.6; cursor: not-allowed !important; }
+code { font-family: 'Courier New', monospace; }
