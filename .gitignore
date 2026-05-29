@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# OS
+.DS_Store
+__MACOSX/
+
+# Duplicated dir
+StayOne/
